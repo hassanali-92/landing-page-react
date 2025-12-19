@@ -1,7 +1,7 @@
 
 import Navbar from './components/layout/Navbar'
 import Hero from './components/layout/Hero'
-import {  MovieCard } from "@/components/layout/Card";
+import {  MovieCard } from "@/components/layout/card";
 import Footer from './components/layout/Footer';
 
 const App = () => {
